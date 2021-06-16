@@ -1,0 +1,12 @@
+Collecting jupyter
+  Using cached https://files.pythonhosted.org/packages/83/df/0f5dd132200728a86190397e1ea87cd76244e42d39ec5e88efd25b2abd7e/jupyter-1.0.0-py2.py3-none-any.whl
+Collecting qtconsole (from jupyter)
+  Using cached https://files.pythonhosted.org/packages/22/4d/94cb45a6f0c25a2693f7c8c0fe0814c3f52ba0f9c920ad75104005b31d42/qtconsole-5.0.3-py3-none-any.whl
+Requirement already satisfied: ipykernel in e:\users\scfan\software\anaconda3_new\envs\pytorch\lib\site-packages (from jupyter)
+Requirement already satisfied: ipywidgets in e:\users\scfan\software\anaconda3_new\envs\pytorch\lib\site-packages (from jupyter)
+Collecting jupyter-console (from jupyter)
+  Using cached https://files.pythonhosted.org/packages/59/cd/aa2670ffc99eb3e5bbe2294c71e4bf46a9804af4f378d09d7a8950996c9b/jupyter_console-6.4.0-py3-none-any.whl
+Collecting notebook (from jupyter)
+  Using cached https://files.pythonhosted.org/packages/5d/86/8f951abc6ac651a75a059d2b77fe99fa5df80bf4dc4700c126a0bee486b8/notebook-6.3.0-py3-none-any.whl
+Requirement already satisfied: nbconvert in e:\users\scfan\software\anaconda3_new\envs\pytorch\lib\site-packages (from jupyter)
+Requirement already satisfied: traitlets in e:\users\scfan\software\anaconda3_new\envs\pytorch\lib\site-packages (from qtconsole->jupyter)
