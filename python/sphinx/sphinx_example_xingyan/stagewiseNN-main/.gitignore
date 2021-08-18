@@ -1,0 +1,17 @@
+.idea/
+.DS_Store
+.ipynb_checkpoints
+
+__pycache__
+*.pyc
+
+/sample_data/merged_adults-19624.rar
+/sample_data/merged_B-L0-raw.rar
+*.h5ad
+
+/_temp/
+
+/notebooks/_tmp*
+/notebooks/.ipynb_checkpoints
+
+_tmp*
