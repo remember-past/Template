@@ -3,7 +3,7 @@
 # @Author  : scfan
 # @FileName: run_multiprocess_script_by_12_stage.py
 # @Software: PyCharm
-from multiprocessing import Pool, Manager
+from multiprocessing import Pool, Manager,Lock
 import multiprocessing
 import os,time,random
 import datetime
@@ -30,17 +30,20 @@ from image_project.source.MultiProcessTools import *
 def run_script(parameter_list):
 
     #script_parameter=[python_file,script_file,'weighted_sim','0','1']
-    print(parameter_list[4].value)
+    lock=parameter_list[5]
+    with lock:
+        print(parameter_list[4].value)
 
-    script_parameter = [python_file, script_file, parameter_list[0],parameter_list[1],parameter_list[2],
-                        parameter_list[3],str(parameter_list[4].value)]
-    script=' '.join(script_parameter)
-    print(script)
-    parameter_list[4].value = parameter_list[4].value + 1
+        script_parameter = [python_file, script_file, parameter_list[0],parameter_list[1],parameter_list[2],
+                            parameter_list[3],str(parameter_list[4].value)]
+        script=' '.join(script_parameter)
+        print(script)
+        parameter_list[4].value = parameter_list[4].value + 1
     os.system(script)
+# lock=Lock()
 if __name__ =="__main__":
     print('Parent process %s.' % os.getpid())
-
+    lock = multiprocessing.Manager().Lock()
     base_lock_dir = r"E:\Users\scfan\program\Template\python\并行化\并行并带锁"
     sub_process_number = 30
     lock_dir = MultiProcess.Lock.create_lock_dir(base_lock_dir)
@@ -59,7 +62,7 @@ if __name__ =="__main__":
     # random_time = 10
     args_list=[]
     for one_missing_rate_index in one_missing_rate_index_list:
-        args_list.append([[str(random_time_index),str(one_missing_rate_index),lock_dir,str(sub_process_number),axis_lock]])
+        args_list.append([[str(random_time_index),str(one_missing_rate_index),lock_dir,str(sub_process_number),axis_lock,lock]])
     # simSeqTime_list = [1]
 
 

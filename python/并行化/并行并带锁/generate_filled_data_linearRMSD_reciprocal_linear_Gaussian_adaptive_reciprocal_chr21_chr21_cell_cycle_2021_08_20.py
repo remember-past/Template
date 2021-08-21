@@ -71,7 +71,7 @@ if __name__ == '__main__':
         # top=100
     sub_lock_index_list=sub_lock_index_list=MultiProcess.Lock.create_sub_lock_index_list(sub_process_number)
     MultiProcess.Lock.open_lock(lock_dir, axis_lock, sub_lock_index_list,sleep_time=0.1)
-    # time.sleep(1)
+    time.sleep(1)
     MultiProcess.Lock.transfer_lock_state(lock_dir, axis_lock, sub_lock_index_list)
     import os
 
@@ -131,6 +131,9 @@ if __name__ == '__main__':
         one_region_similarity = ImageMethods.Similarity3D.dist2similarity_reciprocal_normalize_by_setting_specific_self_similarity(one_region_dist,self_similarity=self_similarity)
         one_missing_rate_similarity.append(one_region_similarity)
     del one_missing_rate_dist
+    import gc
+    gc.collect()
+
 
 ## generate one_missing_rate_background_distances_array###########################
     print('generate one_missing_rate_background_distances_array')
