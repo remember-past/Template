@@ -1,4 +1,4 @@
-swnn.wrapper\_scale
+﻿swnn.wrapper\_scale
 ===================
 
 .. currentmodule:: swnn

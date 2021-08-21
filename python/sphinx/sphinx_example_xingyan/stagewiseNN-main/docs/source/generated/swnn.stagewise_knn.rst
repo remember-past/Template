@@ -1,4 +1,4 @@
-swnn.stagewise\_knn
+﻿swnn.stagewise\_knn
 ===================
 
 .. currentmodule:: swnn

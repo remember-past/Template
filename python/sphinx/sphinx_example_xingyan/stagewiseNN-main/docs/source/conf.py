@@ -15,7 +15,9 @@ import sys
 from datetime import datetime
 
 sys.path.insert(0, os.path.abspath('.'))
-sys.path.insert(0, os.path.abspath(f'{os.path.dirname(__file__)}/../..'))
+sys.path.insert(0, os.path.abspath(r'E:\Users\scfan\program\Template\python\sphinx\sphinx_example_xingyan\stagewiseNN-main'))
+sys.path.insert(0, os.path.abspath(r'E:\Users\scfan\program\Template\python\sphinx\sphinx_example_xingyan\stagewiseNN-main\swnn'))
+
 # import swnn
 # -- Project information -----------------------------------------------------
 

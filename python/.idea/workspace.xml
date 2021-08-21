@@ -1,58 +1,193 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6098d6e-7fd7-423f-8796-d0c1b023b37a" name="Default" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
+    <list default="true" id="c6098d6e-7fd7-423f-8796-d0c1b023b37a" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sphinx/sphinx_example_xingyan/stagewiseNN-main/docs/api.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sphinx/sphinx_example_xingyan/stagewiseNN-main/docs/citation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sphinx/sphinx_example_xingyan/stagewiseNN-main/docs/genindex.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sphinx/sphinx_example_xingyan/stagewiseNN-main/docs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sphinx/sphinx_example_xingyan/stagewiseNN-main/docs/installation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sphinx/sphinx_example_xingyan/stagewiseNN-main/docs/modules.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sphinx/sphinx_example_xingyan/stagewiseNN-main/docs/py-modindex.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sphinx/sphinx_example_xingyan/stagewiseNN-main/docs/search.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sphinx/sphinx_example_xingyan/stagewiseNN-main/docs/source/conf.py" beforeDir="false" afterPath="$PROJECT_DIR$/sphinx/sphinx_example_xingyan/stagewiseNN-main/docs/source/conf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sphinx/sphinx_example_xingyan/stagewiseNN-main/docs/source/generated/swnn.Builder.rst" beforeDir="false" afterPath="$PROJECT_DIR$/sphinx/sphinx_example_xingyan/stagewiseNN-main/docs/source/generated/swnn.Builder.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sphinx/sphinx_example_xingyan/stagewiseNN-main/docs/source/generated/swnn.adaptive_tree.rst" beforeDir="false" afterPath="$PROJECT_DIR$/sphinx/sphinx_example_xingyan/stagewiseNN-main/docs/source/generated/swnn.adaptive_tree.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sphinx/sphinx_example_xingyan/stagewiseNN-main/docs/source/generated/swnn.change_names.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sphinx/sphinx_example_xingyan/stagewiseNN-main/docs/source/generated/swnn.check_dirs.rst" beforeDir="false" afterPath="$PROJECT_DIR$/sphinx/sphinx_example_xingyan/stagewiseNN-main/docs/source/generated/swnn.check_dirs.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sphinx/sphinx_example_xingyan/stagewiseNN-main/docs/source/generated/swnn.describe_dataframe.rst" beforeDir="false" afterPath="$PROJECT_DIR$/sphinx/sphinx_example_xingyan/stagewiseNN-main/docs/source/generated/swnn.describe_dataframe.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sphinx/sphinx_example_xingyan/stagewiseNN-main/docs/source/generated/swnn.group_mean.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sphinx/sphinx_example_xingyan/stagewiseNN-main/docs/source/generated/swnn.group_mean_adata.rst" beforeDir="false" afterPath="$PROJECT_DIR$/sphinx/sphinx_example_xingyan/stagewiseNN-main/docs/source/generated/swnn.group_mean_adata.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sphinx/sphinx_example_xingyan/stagewiseNN-main/docs/source/generated/swnn.normalize_default.rst" beforeDir="false" afterPath="$PROJECT_DIR$/sphinx/sphinx_example_xingyan/stagewiseNN-main/docs/source/generated/swnn.normalize_default.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sphinx/sphinx_example_xingyan/stagewiseNN-main/docs/source/generated/swnn.quick_preprocess_raw.rst" beforeDir="false" afterPath="$PROJECT_DIR$/sphinx/sphinx_example_xingyan/stagewiseNN-main/docs/source/generated/swnn.quick_preprocess_raw.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sphinx/sphinx_example_xingyan/stagewiseNN-main/docs/source/generated/swnn.set_adata_hvgs.rst" beforeDir="false" afterPath="$PROJECT_DIR$/sphinx/sphinx_example_xingyan/stagewiseNN-main/docs/source/generated/swnn.set_adata_hvgs.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sphinx/sphinx_example_xingyan/stagewiseNN-main/docs/source/generated/swnn.set_precomputed_neighbors.rst" beforeDir="false" afterPath="$PROJECT_DIR$/sphinx/sphinx_example_xingyan/stagewiseNN-main/docs/source/generated/swnn.set_precomputed_neighbors.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sphinx/sphinx_example_xingyan/stagewiseNN-main/docs/source/generated/swnn.stagewise_knn.rst" beforeDir="false" afterPath="$PROJECT_DIR$/sphinx/sphinx_example_xingyan/stagewiseNN-main/docs/source/generated/swnn.stagewise_knn.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sphinx/sphinx_example_xingyan/stagewiseNN-main/docs/source/generated/swnn.wrapper_scale.rst" beforeDir="false" afterPath="$PROJECT_DIR$/sphinx/sphinx_example_xingyan/stagewiseNN-main/docs/source/generated/swnn.wrapper_scale.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sphinx/sphinx_example_xingyan/stagewiseNN-main/docs/swnn.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sphinx/sphinx_example_xingyan/stagewiseNN-main/docs/swnn.utils.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sphinx/sphinx_example_xingyan/stagewiseNN-main/docs/tutorials.html" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="822" />
-    <option name="y" value="134" />
-    <option name="width" value="610" />
-    <option name="height" value="536" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane" />
-      <pane id="Scratches" />
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectId" id="1wtZHHGHtFQjKbSG6xmfxPtyhNb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="RunManager" selected="Python.run_generate_filled_data_linearRMSD_reciprocal_linear_Gaussian_self_list_chr21_chr21_cell_cycle_multiprocess_2021_08_20">
+    <configuration name="Test_file_lock" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/并行化/并行并带锁" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/并行化/并行并带锁/Test_file_lock.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_generate_filled_data_linearRMSD_reciprocal_linear_Gaussian_adaptive_reciprocal_chr21_chr21_cell_cycle_2021_08_20 - 副本" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../image_project/global_process/fill_NAN_similarity_distribution_2021_08_09-192" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../image_project/global_process/fill_NAN_similarity_distribution_2021_08_09-192/run_generate_filled_data_linearRMSD_reciprocal_linear_Gaussian_adaptive_reciprocal_chr21_chr21_cell_cycle_2021_08_20 - 副本.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_generate_filled_data_linearRMSD_reciprocal_linear_Gaussian_adaptive_reciprocal_chr21_chr21_cell_cycle_2021_08_20 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/并行化/并行并带锁" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/并行化/并行并带锁/run_generate_filled_data_linearRMSD_reciprocal_linear_Gaussian_adaptive_reciprocal_chr21_chr21_cell_cycle_2021_08_20.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_generate_filled_data_linearRMSD_reciprocal_linear_Gaussian_self_list_chr21_chr21_cell_cycle_multiprocess_2021_08_20" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../image_project/global_process/fill_NAN_similarity_distribution_2021_08_09-192" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../image_project/global_process/fill_NAN_similarity_distribution_2021_08_09-192/run_generate_filled_data_linearRMSD_reciprocal_linear_Gaussian_self_list_chr21_chr21_cell_cycle_multiprocess_2021_08_20.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="share_variable" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/并行化/并行并带锁" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/并行化/并行并带锁/share_variable.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <item itemvalue="Python.run_generate_filled_data_linearRMSD_reciprocal_linear_Gaussian_self_list_chr21_chr21_cell_cycle_multiprocess_2021_08_20" />
+        <item itemvalue="Python.run_generate_filled_data_linearRMSD_reciprocal_linear_Gaussian_adaptive_reciprocal_chr21_chr21_cell_cycle_2021_08_20 (1)" />
+        <item itemvalue="Python.Test_file_lock" />
+        <item itemvalue="Python.share_variable" />
+        <item itemvalue="Python.run_generate_filled_data_linearRMSD_reciprocal_linear_Gaussian_adaptive_reciprocal_chr21_chr21_cell_cycle_2021_08_20 - 副本" />
       </list>
-    </option>
+    </recent_temporary>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -66,33 +201,72 @@
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1904" height="945" extended-state="6" />
-    <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973205" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-    </layout>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="WindowStateProjectService">
+    <state x="398" y="118" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1629508032433">
+      <screen x="0" y="0" width="1888" height="929" />
+    </state>
+    <state x="398" y="118" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1888.929@0.0.1888.929" timestamp="1629508032433" />
+    <state width="1866" height="240" key="GridCell.Tab.0.bottom" timestamp="1629552305695">
+      <screen x="0" y="0" width="1888" height="929" />
+    </state>
+    <state width="1866" height="240" key="GridCell.Tab.0.bottom/0.0.1888.929@0.0.1888.929" timestamp="1629552305695" />
+    <state width="1866" height="240" key="GridCell.Tab.0.center" timestamp="1629552305695">
+      <screen x="0" y="0" width="1888" height="929" />
+    </state>
+    <state width="1866" height="240" key="GridCell.Tab.0.center/0.0.1888.929@0.0.1888.929" timestamp="1629552305695" />
+    <state width="1866" height="240" key="GridCell.Tab.0.left" timestamp="1629552305695">
+      <screen x="0" y="0" width="1888" height="929" />
+    </state>
+    <state width="1866" height="240" key="GridCell.Tab.0.left/0.0.1888.929@0.0.1888.929" timestamp="1629552305695" />
+    <state width="1866" height="240" key="GridCell.Tab.0.right" timestamp="1629552305695">
+      <screen x="0" y="0" width="1888" height="929" />
+    </state>
+    <state width="1866" height="240" key="GridCell.Tab.0.right/0.0.1888.929@0.0.1888.929" timestamp="1629552305695" />
+    <state width="1866" height="297" key="GridCell.Tab.1.bottom" timestamp="1629546178264">
+      <screen x="0" y="0" width="1888" height="929" />
+    </state>
+    <state width="1866" height="297" key="GridCell.Tab.1.bottom/0.0.1888.929@0.0.1888.929" timestamp="1629546178264" />
+    <state width="1866" height="297" key="GridCell.Tab.1.center" timestamp="1629546178264">
+      <screen x="0" y="0" width="1888" height="929" />
+    </state>
+    <state width="1866" height="297" key="GridCell.Tab.1.center/0.0.1888.929@0.0.1888.929" timestamp="1629546178264" />
+    <state width="1866" height="297" key="GridCell.Tab.1.left" timestamp="1629546178264">
+      <screen x="0" y="0" width="1888" height="929" />
+    </state>
+    <state width="1866" height="297" key="GridCell.Tab.1.left/0.0.1888.929@0.0.1888.929" timestamp="1629546178264" />
+    <state width="1866" height="297" key="GridCell.Tab.1.right" timestamp="1629546178264">
+      <screen x="0" y="0" width="1888" height="929" />
+    </state>
+    <state width="1866" height="297" key="GridCell.Tab.1.right/0.0.1888.929@0.0.1888.929" timestamp="1629546178264" />
+    <state x="445" y="95" key="SettingsEditor" timestamp="1629533726524">
+      <screen x="0" y="0" width="1888" height="929" />
+    </state>
+    <state x="445" y="95" key="SettingsEditor/0.0.1888.929@0.0.1888.929" timestamp="1629533726524" />
+  </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/并行化/并行并带锁/Test_file_lock.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

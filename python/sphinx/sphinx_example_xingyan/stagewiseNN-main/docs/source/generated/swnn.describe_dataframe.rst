@@ -1,4 +1,4 @@
-swnn.describe\_dataframe
+﻿swnn.describe\_dataframe
 ========================
 
 .. currentmodule:: swnn

@@ -1,4 +1,4 @@
-swnn.check\_dirs
+﻿swnn.check\_dirs
 ================
 
 .. currentmodule:: swnn

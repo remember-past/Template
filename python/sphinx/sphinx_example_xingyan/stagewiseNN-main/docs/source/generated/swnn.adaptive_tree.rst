@@ -1,4 +1,4 @@
-swnn.adaptive\_tree
+﻿swnn.adaptive\_tree
 ===================
 
 .. currentmodule:: swnn

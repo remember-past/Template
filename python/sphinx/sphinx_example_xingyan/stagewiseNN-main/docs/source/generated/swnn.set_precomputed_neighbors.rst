@@ -1,4 +1,4 @@
-swnn.set\_precomputed\_neighbors
+﻿swnn.set\_precomputed\_neighbors
 ================================
 
 .. currentmodule:: swnn

@@ -1,4 +1,4 @@
-swnn.normalize\_default
+﻿swnn.normalize\_default
 =======================
 
 .. currentmodule:: swnn

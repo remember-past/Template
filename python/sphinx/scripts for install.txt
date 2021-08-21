@@ -1,0 +1,6 @@
+pip install --upgrade sphinx
+pip install myst-parser
+pip install recommonmark
+pip install nbsphinx
+pip install sphinx-autodoc-typehints
+pip install sphinx-rtd-theme

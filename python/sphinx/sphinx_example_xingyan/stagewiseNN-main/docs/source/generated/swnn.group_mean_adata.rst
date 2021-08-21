@@ -1,4 +1,4 @@
-swnn.group\_mean\_adata
+﻿swnn.group\_mean\_adata
 =======================
 
 .. currentmodule:: swnn
