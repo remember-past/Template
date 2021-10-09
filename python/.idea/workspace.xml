@@ -21,6 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="c6098d6e-7fd7-423f-8796-d0c1b023b37a" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plot_example/color_list/color_list_notebook.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/plot_example/color_list/color_list_notebook.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/并行化/并行并带锁/Design1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/并行化/并行并带锁/Design1.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,10 +42,10 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Python.run_generate_filled_data_linearRMSD_reciprocal_linear_Gaussian_self_list_chr21_chr21_cell_cycle_multiprocess_2021_08_20">
-    <configuration name="Test_file_lock" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.run_calculate_PART_unit_length_RMSD_2021_10_09">
+    <configuration name="calculate_RMSD_part_chr21_2021_10_08" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -51,32 +53,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/并行化/并行并带锁" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/并行化/并行并带锁/Test_file_lock.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="run_generate_filled_data_linearRMSD_reciprocal_linear_Gaussian_adaptive_reciprocal_chr21_chr21_cell_cycle_2021_08_20 - 副本" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../image_project/global_process/fill_NAN_similarity_distribution_2021_08_09-192" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../image_project/global_process/measure_of_sequence_matching_2021_09_28-192" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../image_project/global_process/fill_NAN_similarity_distribution_2021_08_09-192/run_generate_filled_data_linearRMSD_reciprocal_linear_Gaussian_adaptive_reciprocal_chr21_chr21_cell_cycle_2021_08_20 - 副本.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../image_project/global_process/measure_of_sequence_matching_2021_09_28-192/calculate_RMSD_part_chr21_2021_10_08.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -85,7 +66,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="run_generate_filled_data_linearRMSD_reciprocal_linear_Gaussian_adaptive_reciprocal_chr21_chr21_cell_cycle_2021_08_20 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="calculate_RMSD_part_unit_length_chr21_2021_10_09" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -93,32 +74,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/并行化/并行并带锁" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/并行化/并行并带锁/run_generate_filled_data_linearRMSD_reciprocal_linear_Gaussian_adaptive_reciprocal_chr21_chr21_cell_cycle_2021_08_20.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="run_generate_filled_data_linearRMSD_reciprocal_linear_Gaussian_self_list_chr21_chr21_cell_cycle_multiprocess_2021_08_20" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../image_project/global_process/fill_NAN_similarity_distribution_2021_08_09-192" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../image_project/global_process/measure_of_sequence_matching_2021_09_28-192" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../image_project/global_process/fill_NAN_similarity_distribution_2021_08_09-192/run_generate_filled_data_linearRMSD_reciprocal_linear_Gaussian_self_list_chr21_chr21_cell_cycle_multiprocess_2021_08_20.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../image_project/global_process/measure_of_sequence_matching_2021_09_28-192/calculate_RMSD_part_unit_length_chr21_2021_10_09.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,7 +87,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="share_variable" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="run_calculate_PART_RMSD_2021_10_08" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -135,11 +95,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/并行化/并行并带锁" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../image_project/global_process/measure_of_sequence_matching_2021_09_28-192" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/并行化/并行并带锁/share_variable.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../image_project/global_process/measure_of_sequence_matching_2021_09_28-192/run_calculate_PART_RMSD_2021_10_08.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_calculate_PART_unit_length_RMSD_2021_10_09" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../image_project/global_process/measure_of_sequence_matching_2021_09_28-192" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../image_project/global_process/measure_of_sequence_matching_2021_09_28-192/run_calculate_PART_unit_length_RMSD_2021_10_09.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_calculate_RMSD_2021_09_30" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../image_project/global_process/measure_of_sequence_matching_2021_09_28-192" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../image_project/global_process/measure_of_sequence_matching_2021_09_28-192/run_calculate_RMSD_2021_09_30.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.run_generate_filled_data_linearRMSD_reciprocal_linear_Gaussian_self_list_chr21_chr21_cell_cycle_multiprocess_2021_08_20" />
-        <item itemvalue="Python.run_generate_filled_data_linearRMSD_reciprocal_linear_Gaussian_adaptive_reciprocal_chr21_chr21_cell_cycle_2021_08_20 (1)" />
-        <item itemvalue="Python.Test_file_lock" />
-        <item itemvalue="Python.share_variable" />
-        <item itemvalue="Python.run_generate_filled_data_linearRMSD_reciprocal_linear_Gaussian_adaptive_reciprocal_chr21_chr21_cell_cycle_2021_08_20 - 副本" />
+        <item itemvalue="Python.run_calculate_PART_unit_length_RMSD_2021_10_09" />
+        <item itemvalue="Python.calculate_RMSD_part_unit_length_chr21_2021_10_09" />
+        <item itemvalue="Python.run_calculate_PART_RMSD_2021_10_08" />
+        <item itemvalue="Python.calculate_RMSD_part_chr21_2021_10_08" />
+        <item itemvalue="Python.run_calculate_RMSD_2021_09_30" />
       </list>
     </recent_temporary>
   </component>
@@ -192,42 +194,46 @@
       <screen x="0" y="0" width="1888" height="929" />
     </state>
     <state x="398" y="118" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1888.929@0.0.1888.929" timestamp="1629508032433" />
-    <state width="1866" height="240" key="GridCell.Tab.0.bottom" timestamp="1629569160129">
+    <state width="1866" height="297" key="GridCell.Tab.0.bottom" timestamp="1633777050701">
       <screen x="0" y="0" width="1888" height="929" />
     </state>
-    <state width="1866" height="240" key="GridCell.Tab.0.bottom/0.0.1888.929@0.0.1888.929" timestamp="1629569160129" />
-    <state width="1866" height="240" key="GridCell.Tab.0.center" timestamp="1629569160129">
+    <state width="1866" height="297" key="GridCell.Tab.0.bottom/0.0.1888.929@0.0.1888.929" timestamp="1633777050701" />
+    <state width="1866" height="297" key="GridCell.Tab.0.center" timestamp="1633777050700">
       <screen x="0" y="0" width="1888" height="929" />
     </state>
-    <state width="1866" height="240" key="GridCell.Tab.0.center/0.0.1888.929@0.0.1888.929" timestamp="1629569160129" />
-    <state width="1866" height="240" key="GridCell.Tab.0.left" timestamp="1629569160129">
+    <state width="1866" height="297" key="GridCell.Tab.0.center/0.0.1888.929@0.0.1888.929" timestamp="1633777050700" />
+    <state width="1866" height="297" key="GridCell.Tab.0.left" timestamp="1633777050700">
       <screen x="0" y="0" width="1888" height="929" />
     </state>
-    <state width="1866" height="240" key="GridCell.Tab.0.left/0.0.1888.929@0.0.1888.929" timestamp="1629569160129" />
-    <state width="1866" height="240" key="GridCell.Tab.0.right" timestamp="1629569160129">
+    <state width="1866" height="297" key="GridCell.Tab.0.left/0.0.1888.929@0.0.1888.929" timestamp="1633777050700" />
+    <state width="1866" height="297" key="GridCell.Tab.0.right" timestamp="1633777050701">
       <screen x="0" y="0" width="1888" height="929" />
     </state>
-    <state width="1866" height="240" key="GridCell.Tab.0.right/0.0.1888.929@0.0.1888.929" timestamp="1629569160129" />
-    <state width="1866" height="297" key="GridCell.Tab.1.bottom" timestamp="1629546178264">
+    <state width="1866" height="297" key="GridCell.Tab.0.right/0.0.1888.929@0.0.1888.929" timestamp="1633777050701" />
+    <state width="1866" height="297" key="GridCell.Tab.1.bottom" timestamp="1633777058547">
       <screen x="0" y="0" width="1888" height="929" />
     </state>
-    <state width="1866" height="297" key="GridCell.Tab.1.bottom/0.0.1888.929@0.0.1888.929" timestamp="1629546178264" />
-    <state width="1866" height="297" key="GridCell.Tab.1.center" timestamp="1629546178264">
+    <state width="1866" height="297" key="GridCell.Tab.1.bottom/0.0.1888.929@0.0.1888.929" timestamp="1633777058547" />
+    <state width="1866" height="297" key="GridCell.Tab.1.center" timestamp="1633777058547">
       <screen x="0" y="0" width="1888" height="929" />
     </state>
-    <state width="1866" height="297" key="GridCell.Tab.1.center/0.0.1888.929@0.0.1888.929" timestamp="1629546178264" />
-    <state width="1866" height="297" key="GridCell.Tab.1.left" timestamp="1629546178264">
+    <state width="1866" height="297" key="GridCell.Tab.1.center/0.0.1888.929@0.0.1888.929" timestamp="1633777058547" />
+    <state width="1866" height="297" key="GridCell.Tab.1.left" timestamp="1633777058547">
       <screen x="0" y="0" width="1888" height="929" />
     </state>
-    <state width="1866" height="297" key="GridCell.Tab.1.left/0.0.1888.929@0.0.1888.929" timestamp="1629546178264" />
-    <state width="1866" height="297" key="GridCell.Tab.1.right" timestamp="1629546178264">
+    <state width="1866" height="297" key="GridCell.Tab.1.left/0.0.1888.929@0.0.1888.929" timestamp="1633777058547" />
+    <state width="1866" height="297" key="GridCell.Tab.1.right" timestamp="1633777058547">
       <screen x="0" y="0" width="1888" height="929" />
     </state>
-    <state width="1866" height="297" key="GridCell.Tab.1.right/0.0.1888.929@0.0.1888.929" timestamp="1629546178264" />
-    <state x="445" y="95" key="SettingsEditor" timestamp="1629533726524">
+    <state width="1866" height="297" key="GridCell.Tab.1.right/0.0.1888.929@0.0.1888.929" timestamp="1633777058547" />
+    <state x="445" y="95" key="SettingsEditor" timestamp="1632213309458">
       <screen x="0" y="0" width="1888" height="929" />
     </state>
-    <state x="445" y="95" key="SettingsEditor/0.0.1888.929@0.0.1888.929" timestamp="1629533726524" />
+    <state x="445" y="95" key="SettingsEditor/0.0.1888.929@0.0.1888.929" timestamp="1632213309458" />
+    <state width="952" height="472" key="XDebugger.FullValuePopup" timestamp="1633777070205">
+      <screen x="0" y="0" width="1888" height="929" />
+    </state>
+    <state width="952" height="472" key="XDebugger.FullValuePopup/0.0.1888.929@0.0.1888.929" timestamp="1633777070205" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -236,6 +242,11 @@
           <url>file://$PROJECT_DIR$/并行化/并行并带锁/Test_file_lock.py</url>
           <line>16</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../image_project/global_process/measure_of_sequence_matching_2021_09_28-192/calculate_RMSD_part_unit_length_chr21_2021_10_09.py</url>
+          <line>86</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
