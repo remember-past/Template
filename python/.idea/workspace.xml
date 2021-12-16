@@ -21,8 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c6098d6e-7fd7-423f-8796-d0c1b023b37a" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plot_example/color_list/color_list_notebook.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/plot_example/color_list/color_list_notebook.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/并行化/并行并带锁/Design1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/并行化/并行并带锁/Design1.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,8 +42,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Python.run_calculate_PART_unit_length_RMSD_2021_10_09">
-    <configuration name="calculate_RMSD_part_chr21_2021_10_08" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.plot_notebook_heatmap_1Mb_chr19_cai_2021_bioRxiv_filled_2021_11_05">
+    <configuration name="generate_not_nan_whole_chr_2021_11_02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -57,7 +55,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../image_project/global_process/measure_of_sequence_matching_2021_09_28-192/calculate_RMSD_part_chr21_2021_10_08.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../image_project/global_process/measure_of_sequence_matching_2021_09_28-192/generate_not_nan_whole_chr_2021_11_02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -66,7 +64,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="calculate_RMSD_part_unit_length_chr21_2021_10_09" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="plot_notebook_heatmap_1Mb_chr19_cai_2021_bioRxiv_2021_11_05" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -78,7 +76,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../image_project/global_process/measure_of_sequence_matching_2021_09_28-192/calculate_RMSD_part_unit_length_chr21_2021_10_09.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../image_project/global_process/measure_of_sequence_matching_2021_09_28-192/plot_notebook_heatmap_1Mb_chr19_cai_2021_bioRxiv_2021_11_05.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -87,7 +85,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="run_calculate_PART_RMSD_2021_10_08" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="plot_notebook_heatmap_1Mb_chr19_cai_2021_bioRxiv_filled_2021_11_05" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -99,7 +97,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../image_project/global_process/measure_of_sequence_matching_2021_09_28-192/run_calculate_PART_RMSD_2021_10_08.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../image_project/global_process/measure_of_sequence_matching_2021_09_28-192/plot_notebook_heatmap_1Mb_chr19_cai_2021_bioRxiv_filled_2021_11_05.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,7 +106,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="run_calculate_PART_unit_length_RMSD_2021_10_09" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="plot_notebook_heatmap_1Mb_chr19_cai_2021_bioRxiv_not_filled_2021_11_05" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -120,7 +118,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../image_project/global_process/measure_of_sequence_matching_2021_09_28-192/run_calculate_PART_unit_length_RMSD_2021_10_09.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../image_project/global_process/measure_of_sequence_matching_2021_09_28-192/plot_notebook_heatmap_1Mb_chr19_cai_2021_bioRxiv_not_filled_2021_11_05.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,7 +127,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="run_calculate_RMSD_2021_09_30" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="plot_notebook_heatmap_3Mb_chr21_2021_11_03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -141,7 +139,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../image_project/global_process/measure_of_sequence_matching_2021_09_28-192/run_calculate_RMSD_2021_09_30.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../image_project/global_process/measure_of_sequence_matching_2021_09_28-192/plot_notebook_heatmap_3Mb_chr21_2021_11_03.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.run_calculate_PART_unit_length_RMSD_2021_10_09" />
-        <item itemvalue="Python.calculate_RMSD_part_unit_length_chr21_2021_10_09" />
-        <item itemvalue="Python.run_calculate_PART_RMSD_2021_10_08" />
-        <item itemvalue="Python.calculate_RMSD_part_chr21_2021_10_08" />
-        <item itemvalue="Python.run_calculate_RMSD_2021_09_30" />
+        <item itemvalue="Python.plot_notebook_heatmap_1Mb_chr19_cai_2021_bioRxiv_filled_2021_11_05" />
+        <item itemvalue="Python.plot_notebook_heatmap_1Mb_chr19_cai_2021_bioRxiv_not_filled_2021_11_05" />
+        <item itemvalue="Python.plot_notebook_heatmap_1Mb_chr19_cai_2021_bioRxiv_2021_11_05" />
+        <item itemvalue="Python.generate_not_nan_whole_chr_2021_11_02" />
+        <item itemvalue="Python.plot_notebook_heatmap_3Mb_chr21_2021_11_03" />
       </list>
     </recent_temporary>
   </component>
@@ -194,38 +192,38 @@
       <screen x="0" y="0" width="1888" height="929" />
     </state>
     <state x="398" y="118" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1888.929@0.0.1888.929" timestamp="1629508032433" />
-    <state width="1866" height="297" key="GridCell.Tab.0.bottom" timestamp="1633777050701">
+    <state width="1866" height="240" key="GridCell.Tab.0.bottom" timestamp="1636186830009">
       <screen x="0" y="0" width="1888" height="929" />
     </state>
-    <state width="1866" height="297" key="GridCell.Tab.0.bottom/0.0.1888.929@0.0.1888.929" timestamp="1633777050701" />
-    <state width="1866" height="297" key="GridCell.Tab.0.center" timestamp="1633777050700">
+    <state width="1866" height="240" key="GridCell.Tab.0.bottom/0.0.1888.929@0.0.1888.929" timestamp="1636186830009" />
+    <state width="1866" height="240" key="GridCell.Tab.0.center" timestamp="1636186830009">
       <screen x="0" y="0" width="1888" height="929" />
     </state>
-    <state width="1866" height="297" key="GridCell.Tab.0.center/0.0.1888.929@0.0.1888.929" timestamp="1633777050700" />
-    <state width="1866" height="297" key="GridCell.Tab.0.left" timestamp="1633777050700">
+    <state width="1866" height="240" key="GridCell.Tab.0.center/0.0.1888.929@0.0.1888.929" timestamp="1636186830009" />
+    <state width="1866" height="240" key="GridCell.Tab.0.left" timestamp="1636186830009">
       <screen x="0" y="0" width="1888" height="929" />
     </state>
-    <state width="1866" height="297" key="GridCell.Tab.0.left/0.0.1888.929@0.0.1888.929" timestamp="1633777050700" />
-    <state width="1866" height="297" key="GridCell.Tab.0.right" timestamp="1633777050701">
+    <state width="1866" height="240" key="GridCell.Tab.0.left/0.0.1888.929@0.0.1888.929" timestamp="1636186830009" />
+    <state width="1866" height="240" key="GridCell.Tab.0.right" timestamp="1636186830009">
       <screen x="0" y="0" width="1888" height="929" />
     </state>
-    <state width="1866" height="297" key="GridCell.Tab.0.right/0.0.1888.929@0.0.1888.929" timestamp="1633777050701" />
-    <state width="1866" height="297" key="GridCell.Tab.1.bottom" timestamp="1633777058547">
+    <state width="1866" height="240" key="GridCell.Tab.0.right/0.0.1888.929@0.0.1888.929" timestamp="1636186830009" />
+    <state width="1866" height="297" key="GridCell.Tab.1.bottom" timestamp="1633777250566">
       <screen x="0" y="0" width="1888" height="929" />
     </state>
-    <state width="1866" height="297" key="GridCell.Tab.1.bottom/0.0.1888.929@0.0.1888.929" timestamp="1633777058547" />
-    <state width="1866" height="297" key="GridCell.Tab.1.center" timestamp="1633777058547">
+    <state width="1866" height="297" key="GridCell.Tab.1.bottom/0.0.1888.929@0.0.1888.929" timestamp="1633777250566" />
+    <state width="1866" height="297" key="GridCell.Tab.1.center" timestamp="1633777250566">
       <screen x="0" y="0" width="1888" height="929" />
     </state>
-    <state width="1866" height="297" key="GridCell.Tab.1.center/0.0.1888.929@0.0.1888.929" timestamp="1633777058547" />
-    <state width="1866" height="297" key="GridCell.Tab.1.left" timestamp="1633777058547">
+    <state width="1866" height="297" key="GridCell.Tab.1.center/0.0.1888.929@0.0.1888.929" timestamp="1633777250566" />
+    <state width="1866" height="297" key="GridCell.Tab.1.left" timestamp="1633777250566">
       <screen x="0" y="0" width="1888" height="929" />
     </state>
-    <state width="1866" height="297" key="GridCell.Tab.1.left/0.0.1888.929@0.0.1888.929" timestamp="1633777058547" />
-    <state width="1866" height="297" key="GridCell.Tab.1.right" timestamp="1633777058547">
+    <state width="1866" height="297" key="GridCell.Tab.1.left/0.0.1888.929@0.0.1888.929" timestamp="1633777250566" />
+    <state width="1866" height="297" key="GridCell.Tab.1.right" timestamp="1633777250566">
       <screen x="0" y="0" width="1888" height="929" />
     </state>
-    <state width="1866" height="297" key="GridCell.Tab.1.right/0.0.1888.929@0.0.1888.929" timestamp="1633777058547" />
+    <state width="1866" height="297" key="GridCell.Tab.1.right/0.0.1888.929@0.0.1888.929" timestamp="1633777250566" />
     <state x="445" y="95" key="SettingsEditor" timestamp="1632213309458">
       <screen x="0" y="0" width="1888" height="929" />
     </state>
