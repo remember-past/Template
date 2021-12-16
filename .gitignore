@@ -139,3 +139,7 @@ cython_debug/
 
 # ipynb checkpoint
 *-checkpoint.ipynb
+
+#.idea
+.idea/
+.virtual_documents/
