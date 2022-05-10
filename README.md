@@ -115,3 +115,21 @@ chmod a+r /home/scfan/software/CUDA/cuda-11.2/include/cudnn.h /home/scfan/softwa
 
 chmod a+r /home/scfan/software/CUDA/cuda-11.3/include/cudnn.h /home/scfan/software/CUDA/cuda-11.2/lib64/libcudnn*
 
+
+
+
+
+# Common usage of pytorch
+
+
+
+
+
+# Usage of sc3DVI
+
+python /mnt/disk1/scfan/program/ToolsDemo/scVI-3D/scripts/scVI-3D.py -b 10 -c "whole" -r 1000000 -i /mnt/disk1/scfan/program/ToolsDemo/scVI-3D/demoData -o /mnt/disk1/scfan/program/ToolsDemo/scVI-3D/results -cs /mnt/disk1/scfan/program/ToolsDemo/scVI-3D/supplementaryData/demoData_summary.txt -g /mnt/disk1/scfan/program/ToolsDemo/scVI-3D/supplementaryData/hg19.chrom.sizes -br -n 100 -gpu -p 10 -pca 50 -up -tp -v
+
+
+
+
+
