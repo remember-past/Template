@@ -10,6 +10,18 @@ python -m ipykernel install --user --name umap --display-name umap
 python -m ipykernel install --user --name umap_1 --display-name umap_1
 python -m ipykernel install --user --name umap_2 --display-name umap_2
 
+python -m ipykernel install --user --name fastai --display-name fastai
+
+# Common usage of anaconda
+
+conda info --env
+
+
+
+conda create --name fastai python=3.7.4
+
+conda install pytorch==1.10.1 torchvision==0.11.2 torchaudio==0.10.1 cudatoolkit=11.3 -c pytorch -c conda-forge
+
 # Download with aspera
 
 #!/bin/sh
@@ -39,7 +51,7 @@ git pull
 
 # Linux manager usage
 
-du -sh ./*
+du -sh ./*  #显示文件大小
 
 
 watch -n 0.1 gpustat
@@ -60,6 +72,8 @@ alias matlab='/home/zhanglab/software/Matlab2022/bin/matlab -nodesktop -nodispla
 export PATH="/home/zhanglab/software/Matlab2022/bin/:$PATH"
 
 
+
+edquota -u scfan
 
 
 
